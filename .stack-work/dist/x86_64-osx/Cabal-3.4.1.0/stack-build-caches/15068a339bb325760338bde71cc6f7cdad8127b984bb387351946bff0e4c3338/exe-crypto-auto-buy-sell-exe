@@ -1,0 +1,16 @@
+/Users/omefire/.stack/programs/x86_64-osx/ghc-9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/omefire/Projects/crypto-auto-buy-sell/ChangeLog.md:
+  hash: ad1212078d7127b2de5e7dbd3f9e58b64b67bd255a35c5b1174ea16e44112390
+/Users/omefire/Projects/crypto-auto-buy-sell/README.md:
+  hash: 86f1c08a00105f31d2a728ab75bd84953e4e18a918db8ca2e61addc612e155c6
+? /Users/omefire/Projects/crypto-auto-buy-sell/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/crypto-auto-buy-sell-exe/autogen/Paths_crypto_auto_buy_sell.hs
+: hash: 99af4a9e3ca3c403a89768664c37189a3fdcc082da0b45854160f65f46a3fb94
+/Users/omefire/Projects/crypto-auto-buy-sell/crypto-auto-buy-sell.cabal:
+  hash: 0e4f3748818c18a0414b2e1e7ade6900030e82bfb56d968299b3b8af2679bb87
+? /Users/omefire/Projects/crypto-auto-buy-sell/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/crypto-auto-buy-sell-exe/autogen/cabal_macros.h
+: hash: f6ed3aaa315ae544f18a37f7433dbb79774694244a9f7cb3807910ed4655e6a5
+/Users/omefire/Projects/crypto-auto-buy-sell/app/Main.hs:
+  hash: 3dae663c64481a22643d2b3e3ef22021cd56711da1ceeeb6ad8d671d95c9d8f1
+/Users/omefire/Projects/crypto-auto-buy-sell/package.yaml:
+  hash: 69b28986cab14693534be32ec35b7280153bf8ab990e0d1d479d485a4cede033
